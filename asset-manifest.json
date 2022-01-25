@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/game/static/css/main.6d8ae617.css",
+    "main.js": "/game/static/js/main.85dd3e18.js",
+    "static/js/787.28cb0dcd.chunk.js": "/game/static/js/787.28cb0dcd.chunk.js",
+    "static/media/x.png": "/game/static/media/x.dedb815cbeda782de530.png",
+    "static/media/circumference.png": "/game/static/media/circumference.3365ee915305cfcd0c53.png",
+    "index.html": "/game/index.html",
+    "main.6d8ae617.css.map": "/game/static/css/main.6d8ae617.css.map",
+    "main.85dd3e18.js.map": "/game/static/js/main.85dd3e18.js.map",
+    "787.28cb0dcd.chunk.js.map": "/game/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d8ae617.css",
+    "static/js/main.85dd3e18.js"
+  ]
+}
